@@ -3,16 +3,22 @@ Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em tra
 ## 私についてSobre mim
 
 Apaixonado por transformar ideias em sistemas úteis, com foco em desenvolvimento web e soluções de impacto social.
+Passionate about turning ideas into useful systems, with a focus on web development and social impact solutions.
 
 Estudante de Engenharia de Software na UCB (4º semestre) e Técnico em Desenvolvimento de Sistemas.
+Software Engineering student at UCB (4th semester) and Technical Specialist in Systems Development.
 
 Atualmente aprofundando conhecimentos em Java, JavaScript, Desenvolvimento Web Full Stack e Estruturas de Dados, aplicando-os em projetos práticos.
+Currently deepening knowledge in Java, JavaScript, Full Stack Web Development, and Data Structures, applying them to practical projects.
 
 Criador do projeto Santa Maria Ativa, uma plataforma de cidadania digital inspirada no Civic Atlas do MIT, voltada à gestão urbana colaborativa.
+Creator of Santa Maria Ativa, a digital citizenship platform inspired by MIT’s Civic Atlas, designed for collaborative urban management.
 
 Interessado em arquitetura de sistemas e tecnologias que conectem pessoas e melhorem comunidades.
+Interested in system architecture and technologies that connect people and strengthen communities.
 
 Sempre em busca de oportunidades para aplicar conhecimento técnico em projetos inovadores e de impacto real.
+Always seeking opportunities to apply technical expertise in innovative projects with real-world impact.
 
 ## 💻 Tecnologias e Ferramentas
 
