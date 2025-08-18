@@ -1,4 +1,4 @@
-Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em transformar ideias em soluções práticas e eficientes. Tenho direcionado meus estudos para desenvolvimento web moderno, sempre buscando aplicar o aprendizado em projetos reais que agreguem valor.
+Desenvolvedor Full Stack em formação, apaixonado por tecnologia e impacto social. Tenho focado meus estudos em Java, JavaScript e TypeScript, com ênfase em desenvolvimento web moderno e arquitetura de sistemas. Sou criador do Santa Maria Ativa, uma plataforma de cidadania digital inspirada no Civic Atlas do MIT, voltada para a gestão urbana colaborativa em minha comunidade. Busco constantemente aplicar o conhecimento técnico em projetos inovadores que conectem pessoas e gerem valor real.
 
 ## 私についてSobre mim
 
