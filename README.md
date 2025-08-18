@@ -65,65 +65,43 @@ Always seeking opportunities to apply technical expertise in innovative projects
   <img src="https://github-profile-trophy.vercel.app/?username=brunoestevaooliveira&theme=darkhub&column=8&margin-w=15&margin-h=15"/>
 </p>
 
-Linguagens
+## 💻 Tecnologias e Ferramentas
 
-C
+### 🔹 Linguagens
+- 🟦 C  
+- 🟪 C++  
+- 🟨 JavaScript  
+- 🔷 TypeScript  
+- 🐍 Python  
 
-C++
+### 🎨 Frontend
+- ⚛️ React  
+- ⬛ Next.js  
+- 🟧 HTML5  
+- 🟦 CSS3  
+- 🌈 Tailwind CSS  
 
-TypeScript
+### 🛠 Backend
+- 🟩 Node.js  
+- 🚂 Express  
+- 🟥 NestJS  
+- 🔗 Prisma  
 
-JavaScript
+### 🗄 Banco de Dados
+- 🐬 MySQL  
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
 
-Python
+### ☁️ Infra & Cloud
+- ☁️ Amazon Web Services (AWS)  
+- 🐳 Docker  
+- 🔥 Firebase  
+- 🐧 Linux  
 
-Frontend
-
-React
-
-Next.js
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-Backend
-
-Node.js
-
-Express
-
-NestJS
-
-Prisma
-
-Banco de Dados
-
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-Infra & Cloud
-
-Amazon Web Services (AWS)
-
-Docker
-
-Firebase
-
-Linux
-
-Ferramentas
-
-Git
-
-Visual Studio Code (VS Code)
-
-Figma
+### 🧰 Ferramentas
+- 🔧 Git  
+- 🖥️ Visual Studio Code (VS Code)  
+- 🎨 Figma  
 
 ###  Áreas de Conhecimento
 - **Algoritmos e Estruturas de Dados** - Fundamentos da computação
