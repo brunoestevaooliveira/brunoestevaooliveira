@@ -2,6 +2,7 @@ Desenvolvedor Full Stack em formação, apaixonado por tecnologia e impacto soci
 
 ## 私についてSobre mim
 
+<div align="center">
 Apaixonado por transformar ideias em sistemas úteis, com foco em desenvolvimento web e soluções de impacto social.
 Passionate about turning ideas into useful systems, with a focus on web development and social impact solutions.
 
