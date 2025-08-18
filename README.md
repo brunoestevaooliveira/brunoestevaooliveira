@@ -65,11 +65,65 @@ Always seeking opportunities to apply technical expertise in innovative projects
   <img src="https://github-profile-trophy.vercel.app/?username=brunoestevaooliveira&theme=darkhub&column=8&margin-w=15&margin-h=15"/>
 </p>
 
-### Ferramentas de Desenvolvimento
-- **MySQL** - Modelagem de dados e consultas SQL avançadas
-- **Git/GitHub** - Controle de versão e colaboração
-- **VS Code** - Ambiente de desenvolvimento integrado
-- **Pacote Office** - Documentação e apresentações técnicas
+Linguagens
+
+C
+
+C++
+
+TypeScript
+
+JavaScript
+
+Python
+
+Frontend
+
+React
+
+Next.js
+
+HTML5
+
+CSS3
+
+Tailwind CSS
+
+Backend
+
+Node.js
+
+Express
+
+NestJS
+
+Prisma
+
+Banco de Dados
+
+MySQL
+
+PostgreSQL
+
+MongoDB
+
+Infra & Cloud
+
+Amazon Web Services (AWS)
+
+Docker
+
+Firebase
+
+Linux
+
+Ferramentas
+
+Git
+
+Visual Studio Code (VS Code)
+
+Figma
 
 ###  Áreas de Conhecimento
 - **Algoritmos e Estruturas de Dados** - Fundamentos da computação
