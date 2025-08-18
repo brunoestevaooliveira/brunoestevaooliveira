@@ -2,12 +2,17 @@ Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em tra
 
 ## 私についてSobre mim
 
-• 🖥️ Apaixonado por desenvolvimento de software e resolução de problemas complexos
-• 🎓 Estudante de Engenharia de Software na UCB (4º semestre) e Técnico em Desenvolvimento de Sistemas
-• 📚 Atualmente estudando: Java, JavaScript, Desenvolvimento Web Full Stack e Estruturas de Dados
-• 🚀 Explorando o universo da programação orientada a objetos e arquitetura de sistemas
-• 💡 Sempre em busca de oportunidades para aplicar conhecimentos técnicos em projetos inovadores
-• 🌱 Focado em desenvolvimento web responsivo e sistemas de gestão
+Apaixonado por transformar ideias em sistemas úteis, com foco em desenvolvimento web e soluções de impacto social.
+
+Estudante de Engenharia de Software na UCB (4º semestre) e Técnico em Desenvolvimento de Sistemas.
+
+Atualmente aprofundando conhecimentos em Java, JavaScript, Desenvolvimento Web Full Stack e Estruturas de Dados, aplicando-os em projetos práticos.
+
+Criador do projeto Santa Maria Ativa, uma plataforma de cidadania digital inspirada no Civic Atlas do MIT, voltada à gestão urbana colaborativa.
+
+Interessado em arquitetura de sistemas e tecnologias que conectem pessoas e melhorem comunidades.
+
+Sempre em busca de oportunidades para aplicar conhecimento técnico em projetos inovadores e de impacto real.
 
 ## 💻 Tecnologias e Ferramentas
 
