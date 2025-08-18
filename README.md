@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91fac796-ade7-466b-a1a1-15b14e24053c" /># 👋 Olá, eu sou Bruno Estevão Oliveira!
-
 Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em transformar ideias em soluções práticas e eficientes. Tenho direcionado meus estudos para desenvolvimento web moderno, sempre buscando aplicar o aprendizado em projetos reais que agreguem valor.
 
 ## 🎯 Sobre mim
@@ -34,11 +32,9 @@ Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em tra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-### 🚀 Linguagens e Frameworks
-- **Java** - Programação orientada a objetos e desenvolvimento de sistemas
-- **JavaScript** - Desenvolvimento web dinâmico e interativo
-- **HTML5 & CSS3** - Estruturação e estilização web moderna
-- **Bootstrap** - Framework para interfaces responsivas
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brunoestevaooliveira&theme=darkhub&column=8&margin-w=15&margin-h=15"/>
+</p>
 
 ### 🛠️ Ferramentas de Desenvolvimento
 - **MySQL** - Modelagem de dados e consultas SQL avançadas
