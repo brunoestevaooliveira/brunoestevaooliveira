@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Bruno Estevão Oliveira!
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91fac796-ade7-466b-a1a1-15b14e24053c" /># 👋 Olá, eu sou Bruno Estevão Oliveira!
 
 Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em transformar ideias em soluções práticas e eficientes. Tenho direcionado meus estudos para desenvolvimento web moderno, sempre buscando aplicar o aprendizado em projetos reais que agreguem valor.
 
@@ -13,7 +13,8 @@ Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em tra
 
 ## 💻 Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql,git,github,vscode&theme=dark" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d62ca7a-1a8d-4ba1-992c-de965c5fb6f8" />
+
 
 ### 🚀 Linguagens e Frameworks
 - **Java** - Programação orientada a objetos e desenvolvimento de sistemas
