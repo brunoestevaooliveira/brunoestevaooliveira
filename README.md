@@ -1,6 +1,6 @@
 Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em transformar ideias em soluções práticas e eficientes. Tenho direcionado meus estudos para desenvolvimento web moderno, sempre buscando aplicar o aprendizado em projetos reais que agreguem valor.
 
-## 🎯 Sobre mim
+## 私についてSobre mim
 
 • 🖥️ Apaixonado por desenvolvimento de software e resolução de problemas complexos
 • 🎓 Estudante de Engenharia de Software na UCB (4º semestre) e Técnico em Desenvolvimento de Sistemas
@@ -36,19 +36,19 @@ Desenvolvedor Full Stack em formação e entusiasta de tecnologia, focado em tra
   <img src="https://github-profile-trophy.vercel.app/?username=brunoestevaooliveira&theme=darkhub&column=8&margin-w=15&margin-h=15"/>
 </p>
 
-### 🛠️ Ferramentas de Desenvolvimento
+### Ferramentas de Desenvolvimento
 - **MySQL** - Modelagem de dados e consultas SQL avançadas
 - **Git/GitHub** - Controle de versão e colaboração
 - **VS Code** - Ambiente de desenvolvimento integrado
 - **Pacote Office** - Documentação e apresentações técnicas
 
-### 🌐 Áreas de Conhecimento
+###  Áreas de Conhecimento
 - **Algoritmos e Estruturas de Dados** - Fundamentos da computação
 - **Redes de Computadores** - Protocolos TCP/IP e configuração
 - **Banco de Dados** - Modelagem e otimização
 - **Engenharia de Software** - Arquitetura e boas práticas
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 ### Sistema de Gestão Escolar
 🎯 **Projeto Final do Curso Técnico (2025)**
@@ -98,5 +98,5 @@ Busco oportunidades de **estágio** ou **posição júnior** em:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brunoestevaooliveira&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
   
-  **💡 "Transformando conceitos em código, código em soluções!"**
+  ** "Transformando conceitos em código, código em soluções!"**
 </div>
